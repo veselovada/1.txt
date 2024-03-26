@@ -1,2 +1,2 @@
-Veselova Diana 
+Diana 
 # 1.txt
